@@ -5,6 +5,8 @@ PyCharm
 INSTALLATION INSTRUCTIONS
 ===============================================================================
 
+
+logic exercise
   Linux Installation Instructions
   ------------------------------------------------------------------------------
   1. Unpack the PyCharm distribution archive that you downloaded to
